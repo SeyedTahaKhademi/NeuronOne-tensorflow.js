@@ -25,3 +25,9 @@ It creates a simple linear regression model, trains it using example data, and p
 
 ```bash
 npm install @tensorflow/tfjs
+
+```
+## حتما nodejs  باید روی سیستم نصب باشه 
+## نحوه اجرا :
+```bash
+node yourfilename.js
